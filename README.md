@@ -1,26 +1,20 @@
-### Hi there 👋
-
-<!--
-**srividya-03/srividya-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-[LinkedIn] (https://www.linkedin.com/in/sce18ec007/)
-[![LinkedIn logo image link](LinkedIn.png)(https://www.linkedin.com/in/sce18ec007/)
-
-
+#Srividya B
 
 
 [![linkedin](https://github.com/srividya-03/srividya-03/blob/main/Linkedin.png)](https://www.linkedin.com/in/sce18ec007/)&nbsp;&nbsp;&nbsp;&nbsp;
+;[![mail](https://github.com/srividya-03/srividya-03/blob/main/mail.png)](mailto:srividyab0414@gmail.com)
 
-
+### Hi there 👋
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DEVINCEPT,LGMVIP,TSF,FSWD_TIE INTERNSHIP 
+- 🔭 I’m currently an Intern at  ***DEVINCEPT,LGMVIP,TSF,FSWD-TIE*** 
 
-- 🌱 I’m currently learning , PYTHON FULLSTACK WEB DEVELOPMENT
+- 🌱 I’m currently learning  ***FULLSTACK WEB DEVELOPMENT***
 
 - 👯 I’m looking to collaborate on WEB DEVELOPMENT
 
-- 📫 How to reach me: Contact me at https://www.linkedin.com/in/sce18ec007/
+- 📫 ***How to reach me***: Contact me at https://www.linkedin.com/in/sce18ec007/
 
-- ⚡ Fun fact: I can work with Music
+- ⚡ ***Fun fact***: I can work with Music
