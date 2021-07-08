@@ -8,7 +8,7 @@
 
 
 
-[![linkedin](https://github.com/srividya-03/srividya-03.github.io/edit/main/LinkedIn.png)](https://www.linkedin.com/in/sce18ec007/)&nbsp;&nbsp;&nbsp;&nbsp;
+[![linkedin](https://github.com/srividya-03/srividya-03/blob/main/Linkedin.png)](https://www.linkedin.com/in/sce18ec007/)&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
