@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I am Srividya B, aspiring Full Stack Developer. I'm currently woking as a Software Engineer. I'm here to build projects as a part of my learning journey and to upskill myself.
+I am Srividya B, aspiring Full Stack Developer. I'm currently working as a Software Engineer. I'm here to build projects as a part of my learning journey and to upskill myself.
 
 
 - 🌱 I’m currently learning  ***SOFTWARE DEVELOPMENT.***
